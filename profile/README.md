@@ -14,8 +14,8 @@ To learn more about how EEA Community Projects are governed, who our sponsors ar
 EEA Community Projects are managed by a Technical Steering Committee (TSC) and overseen by the Project Governing Board:
 
 * Baseline Protocol [homepage](https://www.baseline-protocol.org/) and [Github repository](https://github.com/eea-oasis/baseline)
-* L2 Project – Layer 2 Blockchain Scalability Solutions [repository](https://github.com/eea-oasis/L2)
-* TokenSkript [repository](https://github.com/eea-oasis/tokenscript)
+* L2 Standards Working Group – Standards for Layer 2 Blockchain Scalability Solutions [repository](https://github.com/eea-oasis/L2)
+* TokenScript [repository](https://github.com/eea-oasis/tokenscript)
 
 
 ## Get involved!
