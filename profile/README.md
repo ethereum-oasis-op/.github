@@ -28,5 +28,5 @@ Are you interested in learning more about EEA Community Projects or would you li
 	* [Baseline](https://lists.oasis-open-projects.org/g/baseline/topics)
 	* [L2](https://lists.oasis-open-projects.org/g/eea-cp-l2/topics)
 	* [TokenScript](https://lists.oasis-open-projects.org/g/eea-cp-tokenscript/topics)
-* [Become a sponsor](https://www.oasis-open.org/join-an-open-project/) and ensure that EEA Community Project receive the resources they need to succeed
+* [Become a sponsor](https://www.oasis-open.org/join-an-open-project/) and ensure that EEA Community Projects receive the resources they need to succeed
 
