@@ -18,7 +18,7 @@ The Ethereum OASIS Open Project is managed by several Technical Steering Committ
 
 
 ## Get involved!
-Are you interested in learning more about EEA Community Projects or would you like to contribute to our projects? Here are a few starting points:
+Are you interested in learning more about the Ethereum OASIS Open Project or would you like to contribute to our projects? Here are a few starting points:
 
 * Join the conversation on Slack:
 	* [Baseline](https://join.slack.com/t/ethereum-baseline/shared_invite/zt-22evmy85e-PONDIImP6CTDMtZyAkhsmw)
