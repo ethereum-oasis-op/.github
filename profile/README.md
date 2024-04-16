@@ -2,11 +2,13 @@
 
 # Welcome to Ethereum OASIS Open Project!
 
-The Ethereum OASIS Open Project exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Open Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
+The Ethereum OASIS Open Project exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Open Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol. The Ethereum OASIS Open Project was formed in 2020. From June 29, 2021 to 8 April 2024 it was known as EEA Community Projects. The mailing lists archives from that time are publicly visible [here](https://lists.oasis-open-projects.org/g/eea-community-projects) and [here](https://lists.oasis-open-projects.org/g/eea-community-projects-pgb). In April 2024, the project rebranded under its original name.
 
 For more information on the goals of this effort, see our [project charter](https://github.com/ethereum-oasis-op/oasis-open-project/blob/main/PROJECT_CHARTER.md).
 
 To learn more about how the Ethereum OASIS Open Project is governed, who our sponsors are, and who is serving on our Project Governing Board, check out the [OASIS Open Project repository](https://github.com/ethereum-oasis-op/oasis-open-project).
+
+
 
 
 ## List of Projects and Technical Steering Committees
