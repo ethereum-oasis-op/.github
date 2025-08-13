@@ -1,6 +1,6 @@
+# The Ethereum OASIS Open Project closed on 31 May 2025. The open source assets will be archived but remain publicly accessible. OASIS appreciates the efforts of all those who participated in this work.
 
-
-# Welcome to Ethereum OASIS Open Project!
+## Welcome to Ethereum OASIS Open Project!
 
 The Ethereum OASIS Open Project exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Open Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol. The Ethereum OASIS Open Project was formed in 2020. From June 29, 2021 to 8 April 2024 it was known as EEA Community Projects. The mailing lists archives from that time are publicly visible [here](https://lists.oasis-open-projects.org/g/eea-community-projects) and [here](https://lists.oasis-open-projects.org/g/eea-community-projects-pgb). In April 2024, the project rebranded under its original name.
 
